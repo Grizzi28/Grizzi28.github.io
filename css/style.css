@@ -447,7 +447,10 @@ textarea.input {
   border: none;
   background: transparent;
 }
-
+.contain-projet {
+  display: flex;
+  flex-direction: column;
+}
 .is-rounded {
   border-radius: 50%;
 }
